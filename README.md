@@ -5,6 +5,14 @@
 현재 국비지원학원에서 웹퍼블리싱 강의를 진행하고있습니다.<br/>
 화려한 플러그인들을을 사용하기보다는 사이트 속도 개선 및 플러그인 충돌을 막기 위해서 <br/>
 기본 스킬에 충실하여 저만의 로직으로 사이트 디자인을 구현해내는것이 저만의 강점입니다.<br/>
+ 
+ 
+
+Hello!🤗 <br/>
+I'am Annie. <br/>
+I work as a teacher in Web Publishing<br/>
+Instead of using some skillful pugins, I'd love to 'hard coding' which is using my own logic.<br/>
+for speed up website or prevent some code crashes<br/>
 
 
  #
