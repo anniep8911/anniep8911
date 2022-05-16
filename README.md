@@ -51,7 +51,7 @@ for speed up website or prevent some code crashes<br/>
     <li>ES5의 함수 ES6의 화살표 함수에 대한 명확한 이해</li>
     <li>자료형(일반, 배열, 오브젝트)에 대한 명확한 이해 및 활용</li>
     <li>var, let, const 의 차이를 명확히 이해하여 변수 선언</li>
-    <li>minimize compiling을 통한 용량 개선</li>
+    <li>minifying compiling을 통한 용량 개선</li>
     <li>script 링크 배치를 통한 속도 개선</li>
     <li>animate를 활용하여 레퍼런스 없이 동적요소 구현</li>
     <li>반응형 동적요소 구현</li> 
@@ -63,7 +63,7 @@ for speed up website or prevent some code crashes<br/>
     <li>파라미터를 활용한 함수 간소화</li>
     <li>자료형(일반, 배열, 오브젝트)에 대한 명확한 이해 및 활용</li>
     <li>var, let, const 의 차이를 명확히 이해하여 변수 선언</li>
-    <li>minimize compiling을 통한 용량 개선</li>
+    <li>minifying compiling을 통한 용량 개선</li>
     <li>script 링크 배치를 통한 속도 개선</li>
     <li>animate를 활용하여 레퍼런스 없이 동적요소 구현</li>
     <li>반응형 동적요소 구현</li> 
