@@ -11,8 +11,7 @@
 Hello!🤗 <br/>
 I'am Annie. <br/>
 I work as a teacher in Web Publishing<br/>
-Instead of using some skillful pugins, I'd love to 'hard coding' which is using my own logic.<br/>
-for speed up website or prevent some code crashes<br/>
+Instead of using some skillful pugins, I'd love to 'hard coding' which is using my own logic for speed up website or prevent some code crashes<br/>
 
 
  #
