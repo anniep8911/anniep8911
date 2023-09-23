@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=박정아%Profile&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ec99b4,100:9ad7ec&height=180&section=header&text=박정아%Profile&fontSize=32&animation=twinkling&fontColor=ffffff&fontAlign=80&fontAlignY=35)
 
 안녕하세요!🤗 <br/>
 박정아입니다. <br/>
