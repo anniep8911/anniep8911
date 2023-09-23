@@ -49,11 +49,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ec99b4,100:9ad7ec&height=180&section=footer)
 
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anniep8911&theme=moltack&show_icons=true) <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniep8911&layout=compact&theme=moltack)
--->
  
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
