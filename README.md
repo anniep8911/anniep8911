@@ -7,7 +7,10 @@
 그동안의 UI개발의 경험과 강의경험으로 다양한 포지션에서 업무를 원활하게 수행할 수 있습니다. 
 
 # 
-### Skills
+### 🛠 Tech Stack 🔨
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,threejs,vue,react,webpack,nodejs,aws)](https://skillicons.dev)
+
+<!--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) 
@@ -17,17 +20,17 @@
 ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white)
 ![nodejs](https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
-![amazonaws](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![amazonaws](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) -->
 
 #
-경력사항
-  
+Career
+  [![trophy](https://github-profile-trophy.vercel.app/?username=anniep8911&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
   
  #
 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anniep8911&theme=moltack&show_icons=true) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniep8911&layout=compact&theme=moltack)
-
+-->
  
