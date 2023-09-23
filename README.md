@@ -49,6 +49,5 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ec99b4,100:9ad7ec&height=180&section=footer)
 
- 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
