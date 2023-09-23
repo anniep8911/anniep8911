@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ec99b4,100:9ad7ec&height=180&section=header&text=박정아&desc=UI%20Developer%20and%20Teacher&fontSize=32&animation=twinkling&fontColor=ffffff&fontAlign=88&fontAlignY=35&descAlign=80&descAlignY=50)
 
 
-안녕하세요!🤗 <br/>
-박정아입니다. <br/>
-저는 현재 잡코리아에서 UI개발을 하고있습니다.<br>
+안녕하세요!🤗<br> 저는 현재 잡코리아에서 UI개발을 하고있는 박정아 입니다.<br>
 
 # 
 ### 🛠 Tech Stack 🔨
@@ -36,8 +34,21 @@
 # 
 
 ### 🐱‍🏍 Works ✨
-
-
+▪ Jobkorea TVC Event UI개발<br>
+▪ Jobkorea Rebranding MicroSite UI개발<br>
+▪ Jobkorea GNB 개편 및 고도화<br>
+▪ 삼성전자 한국총판 CrossBrowsing UI개발<br>
+▪ 삼성전자 한국총판 APS사이트 UI 개편<br>
+▪ 실업자 국기 웹퍼블리셔 양성과정 UI개발 강의<br>
+▪ 실업자 단과 웹퍼블리셔 양성과정 UI개발 강의<br>
+▪ 웹퍼블리셔 포트폴리오 제작 특강<br>
+▪ Ednplus Retargeting AD admin 페이지 기획 및 UI개발<br>
+▪ Ednplus Network AD UI 기획 및 개발<br>
+▪ Gmarket, Auction Web to App project Data QA<br>
+▪ LG oled TV 광고페이지 UI개발 <br>
+▪ LG oled Ultra Gaming monitor 광고페이지 UI개발 <br>
+▪ 헤어프로덕트 자사몰 기획 및 UI개발 <br>
+▪ Arnold Palmer golf wear 2011 FW 자사몰 기획 및 UI개발 <br>
   
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ec99b4,100:9ad7ec&height=180&section=footer)
