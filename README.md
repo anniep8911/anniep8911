@@ -7,7 +7,7 @@
 
 # 
 ### 🛠 Tech Stack 🔨
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,threejs,vue,react,webpack,nodejs,aws,figma)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,threejs,vue,react,webpack,nodejs,aws,figma)
 
 <!--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -35,9 +35,9 @@
 
 # 
 
- Works
-  
-  
+### 🐱‍🏍 Works ✨
+
+
   
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ec99b4,100:9ad7ec&height=180&section=footer)
