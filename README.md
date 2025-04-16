@@ -1,37 +1,36 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ec99b4,100:9ad7ec&height=200&section=header&text=박정아&desc=UI%20Developer&fontSize=32&animation=twinkling&fontColor=ffffff&fontAlign=10&fontAlignY=35&descAlign=90&descAlignY=50)
-### 💼 Careers ⚙
-- 현대 태양광시스템 개발 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Current-fc0) <br>
-- Jobkorea UI 개발 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Past-cccccc) <br>
-- 삼성SDS 한국총판 UI 개발 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Past-cccccc) <br>
-- 그린아카데미 웹퍼블리싱 강사 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Past-cccccc) <br>
-- 퍼스트아카데미 웹퍼블리싱 강사 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Past-cccccc) <br>
-- 이베이코리아 EDN Plus 운영 & Data QA ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Past-cccccc) <br>
-- LG OLED Global사이트 UI 개발 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Past-cccccc) <br>
-- 헤어프로덕트 기획 / 자사몰 운영 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Past-cccccc) <br>
-- 아놀드파마 상품 기획 / 자사몰 운영 ![(https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/Past-cccccc) <br>
+## 💼 Careers
 
-# 
+- ⚙ 현대 태양광시스템 개발  
+- ⚙ Jobkorea UI 개발  
+- ⚙ 삼성SDS 한국총판 UI 개발  
+- 👩‍🏫 그린아카데미 웹 퍼블리싱 강사  
+- 👩‍🏫 퍼스트아카데미 웹 퍼블리싱 강사  
+- 🧪 이베이코리아 EDN Plus 운영 & Data QA  
+- ⚙ LG OLED Global 사이트 UI 개발  
+- 🛍 헤어프로덕트 자사몰 기획 및 운영  
+- 🧥 아놀드파마 골프웨어 자사몰 기획 및 운영  
 
-### 🐱‍🏍 Works ✨
-- 현대 태양광시스템 에너지 대시보드, 관리자, admin페이지 개발 <br>
-- Jobkorea TVC Event UI개발<br>
-- Jobkorea Rebranding MicroSite UI개발<br>
-- Jobkorea GNB 개편 및 고도화<br>
-- 삼성전자 한국총판 CrossBrowsing UI개발<br>
-- 삼성전자 한국총판 APS사이트 UI 개편<br>
-- 실업자 국기 웹퍼블리셔 양성과정 UI개발 강의<br>
-- 실업자 단과 웹퍼블리셔 양성과정 UI개발 강의<br>
-- 웹퍼블리셔 포트폴리오 제작 특강<br>
-- Ednplus Retargeting AD admin 페이지 기획 및 UI개발<br>
-- Ednplus Network AD UI 기획 및 개발<br>
-- Gmarket, Auction Web to App project Data QA<br>
-- LG oled TV 광고페이지 UI개발 <br>
-- LG oled Ultra Gaming monitor 광고페이지 UI개발 <br>
-- 헤어프로덕트 자사몰 기획 및 UI개발 <br>
-- Arnold Palmer golf wear 2011 FW 자사몰 기획 및 UI개발 <br>
-  
-  
-# 
+---
+
+## 🐱‍🏍 Works
+
+- 현대 태양광시스템 에너지 대시보드, 관리자 UI 개발  
+- Jobkorea TVC 이벤트 페이지 UI 개발  
+- Jobkorea 리브랜딩 마이크로사이트 구축  
+- Jobkorea GNB 개편 및 고도화  
+- 삼성전자 한국총판 Cross Browsing UI 대응  
+- 삼성전자 APS UI 개편  
+- 실업자 웹 퍼블리셔 양성과정 강의 (기초~포트폴리오)  
+- Ednplus Retargeting AD admin UI 기획 및 개발  
+- Ednplus Network 광고 UI 기획 및 개발  
+- Gmarket / Auction Web to App QA  
+- LG OLED TV/Ultra Gaming 광고페이지 UI 구축  
+- 헤어 제품몰 기획 및 UI 개발  
+- 아놀드파마 골프웨어 자사몰 UI 기획 및 구축  
+
+---
+
 ### 🛠 Tech Stack 🔨
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,threejs,vue,react,webpack,nodejs,aws,figma)
 
@@ -46,6 +45,8 @@
 ![webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white)
 ![nodejs](https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![amazonaws](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) -->
+
++ 업무 자동화 경험, 공통 모듈화, 디자인 시스템 설계 등 강점
 
 #
 
